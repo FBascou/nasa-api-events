@@ -1,0 +1,3612 @@
+[
+    {
+        "date": "2021-05-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:19:53",
+        "type": "Total",
+        "saros": "121",
+        "umbralMagnitude": "1.009",
+        "duration": "03:07:00\n00:15:00",
+        "geoRegion": "e Asia, Australia, Pacific, Americas"
+    },
+    {
+        "date": "2021-06-10",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:43:06",
+        "type": "Annular",
+        "saros": "147",
+        "umbralMagnitude": "0.943",
+        "duration": "00:03:51",
+        "geoRegion": "n N. America, Europe, Asia"
+    },
+    {
+        "date": "2021-11-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:04:06",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.974",
+        "duration": "03:28:00",
+        "geoRegion": "Americas, n Europe, e Asia, Australia, Pacific"
+    },
+    {
+        "date": "2021-12-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "07:34:38",
+        "type": "Total",
+        "saros": "152",
+        "umbralMagnitude": "1.037",
+        "duration": "00:01:54",
+        "geoRegion": "Antarctica, S. Africa, s Atlantic"
+    },
+    {
+        "date": "2022-04-30",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:42:36",
+        "type": "Partial",
+        "saros": "119",
+        "umbralMagnitude": "0.64",
+        "duration": "N/A",
+        "geoRegion": "se Pacific, s S. America"
+    },
+    {
+        "date": "2022-05-16",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "04:12:42",
+        "type": "Total",
+        "saros": "131",
+        "umbralMagnitude": "1.414",
+        "duration": "03:27:00\n01:25:00",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2022-10-25",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "11:01:19",
+        "type": "Partial",
+        "saros": "124",
+        "umbralMagnitude": "0.862",
+        "duration": "N/A",
+        "geoRegion": "Europe, ne Africa, Mid East, w Asia"
+    },
+    {
+        "date": "2022-11-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:00:22",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.359",
+        "duration": "03:40:00\n01:25:00",
+        "geoRegion": "Asia, Australia, Pacific, Americas"
+    },
+    {
+        "date": "2023-04-20",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "04:17:55",
+        "type": "Hybrid",
+        "saros": "129",
+        "umbralMagnitude": "1.013",
+        "duration": "00:01:16",
+        "geoRegion": "se Asia, E. Indies, Australia, Philippines. N.Z."
+    },
+    {
+        "date": "2023-05-05",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:24:05",
+        "type": "Penumbral",
+        "saros": "141",
+        "umbralMagnitude": "-0.046",
+        "duration": "N/A",
+        "geoRegion": "Africa, Asia, Australia"
+    },
+    {
+        "date": "2023-10-14",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:00:40",
+        "type": "Annular",
+        "saros": "134",
+        "umbralMagnitude": "0.952",
+        "duration": "00:05:17",
+        "geoRegion": "N. America, C. America, S. America"
+    },
+    {
+        "date": "2023-10-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "20:15:18",
+        "type": "Partial",
+        "saros": "146",
+        "umbralMagnitude": "0.122",
+        "duration": "01:17:00",
+        "geoRegion": "e Americas, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2024-03-25",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "07:13:59",
+        "type": "Penumbral",
+        "saros": "113",
+        "umbralMagnitude": "-0.132",
+        "duration": "N/A",
+        "geoRegion": "Americas"
+    },
+    {
+        "date": "2024-04-08",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:18:29",
+        "type": "Total",
+        "saros": "139",
+        "umbralMagnitude": "1.057",
+        "duration": "00:04:28",
+        "geoRegion": "N. America, C. America"
+    },
+    {
+        "date": "2024-09-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:45:25",
+        "type": "Partial",
+        "saros": "118",
+        "umbralMagnitude": "0.085",
+        "duration": "01:03:00",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2024-10-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:46:13",
+        "type": "Annular",
+        "saros": "144",
+        "umbralMagnitude": "0.933",
+        "duration": "00:07:25",
+        "geoRegion": "Pacific, s S. America"
+    },
+    {
+        "date": "2025-03-14",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "06:59:56",
+        "type": "Total",
+        "saros": "123",
+        "umbralMagnitude": "1.178",
+        "duration": "03:38:00\n01:05:00",
+        "geoRegion": "Pacific, Americas, w Europe, w Africa"
+    },
+    {
+        "date": "2025-03-29",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:48:36",
+        "type": "Partial",
+        "saros": "149",
+        "umbralMagnitude": "0.938",
+        "duration": "N/A",
+        "geoRegion": "nw Africa, Europe, n Russia"
+    },
+    {
+        "date": "2025-09-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:12:58",
+        "type": "Total",
+        "saros": "128",
+        "umbralMagnitude": "1.362",
+        "duration": "03:29:00\n01:22:00",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2025-09-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "19:43:04",
+        "type": "Partial",
+        "saros": "154",
+        "umbralMagnitude": "0.855",
+        "duration": "N/A",
+        "geoRegion": "s Pacific, N.Z., Antarctica"
+    },
+    {
+        "date": "2026-02-17",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "12:13:05",
+        "type": "Annular",
+        "saros": "121",
+        "umbralMagnitude": "0.963",
+        "duration": "00:02:20",
+        "geoRegion": "s Argentina & Chile, s Africa, Antarctica"
+    },
+    {
+        "date": "2026-03-03",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:34:52",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.151",
+        "duration": "03:27:00\n00:58:00",
+        "geoRegion": "e Asia, Australia, Pacific, Americas"
+    },
+    {
+        "date": "2026-08-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:47:05",
+        "type": "Total",
+        "saros": "126",
+        "umbralMagnitude": "1.039",
+        "duration": "00:02:18",
+        "geoRegion": "n N. America, w Africa, Europe"
+    },
+    {
+        "date": "2026-08-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "04:14:04",
+        "type": "Partial",
+        "saros": "138",
+        "umbralMagnitude": "0.93",
+        "duration": "03:18:00",
+        "geoRegion": "e Pacific, Americas, Europe, Africa"
+    },
+    {
+        "date": "2027-02-06",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "16:00:47",
+        "type": "Annular",
+        "saros": "131",
+        "umbralMagnitude": "0.928",
+        "duration": "00:07:51",
+        "geoRegion": "S. America, Antarctica, w & s Africa"
+    },
+    {
+        "date": "2027-02-20",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "23:14:06",
+        "type": "Penumbral",
+        "saros": "143",
+        "umbralMagnitude": "-0.057",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2027-07-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "16:04:09",
+        "type": "Penumbral",
+        "saros": "110",
+        "umbralMagnitude": "-1.068",
+        "duration": "N/A",
+        "geoRegion": "e Africa, Asia, Australia, Pacific"
+    },
+    {
+        "date": "2027-08-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:07:49",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.079",
+        "duration": "00:06:23",
+        "geoRegion": "Africa, Europe, Mid East, w & s Asia"
+    },
+    {
+        "date": "2027-08-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "07:14:59",
+        "type": "Penumbral",
+        "saros": "148",
+        "umbralMagnitude": "-0.525",
+        "duration": "N/A",
+        "geoRegion": "Pacific, Americas"
+    },
+    {
+        "date": "2028-01-12",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "04:14:13",
+        "type": "Partial",
+        "saros": "115",
+        "umbralMagnitude": "0.066",
+        "duration": "00:56:00",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2028-01-26",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "15:08:58",
+        "type": "Annular",
+        "saros": "141",
+        "umbralMagnitude": "0.921",
+        "duration": "00:10:27",
+        "geoRegion": "e N. America, C. & S. America, w Europe, nw Africa"
+    },
+    {
+        "date": "2028-07-06",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:20:57",
+        "type": "Partial",
+        "saros": "120",
+        "umbralMagnitude": "0.389",
+        "duration": "02:21:00",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2028-07-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:56:39",
+        "type": "Total",
+        "saros": "146",
+        "umbralMagnitude": "1.056",
+        "duration": "00:05:10",
+        "geoRegion": "SE Asia, E. Indies, Australia, N.Z."
+    },
+    {
+        "date": "2028-12-31",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "16:53:15",
+        "type": "Total",
+        "saros": "125",
+        "umbralMagnitude": "1.246",
+        "duration": "03:29:\n01:11:00",
+        "geoRegion": "Europe, Africa, Asia, Australia, Pacific"
+    },
+    {
+        "date": "2029-01-14",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:13:47",
+        "type": "Partial",
+        "saros": "151",
+        "umbralMagnitude": "0.871",
+        "duration": "N/A",
+        "geoRegion": "N. America, C. America"
+    },
+    {
+        "date": "2029-06-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "04:06:13",
+        "type": "Partial",
+        "saros": "118",
+        "umbralMagnitude": "0.458",
+        "duration": "N/A",
+        "geoRegion": "Arctic, Scandanavia, Alaska, n Asia, n Canada"
+    },
+    {
+        "date": "2029-06-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:23:22",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.844",
+        "duration": "03:40:00\n01:42:00",
+        "geoRegion": "Americas, Europe, Africa, Mid East"
+    },
+    {
+        "date": "2029-07-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "15:37:18",
+        "type": "Partial",
+        "saros": "156",
+        "umbralMagnitude": "0.23",
+        "duration": "N/A",
+        "geoRegion": "s Chile, s Argentina"
+    },
+    {
+        "date": "2029-12-05",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "15:03:57",
+        "type": "Partial",
+        "saros": "123",
+        "umbralMagnitude": "0.891",
+        "duration": "N/A",
+        "geoRegion": "s Argentina, s Chile, Antarctica"
+    },
+    {
+        "date": "2029-12-20",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:43:12",
+        "type": "Total",
+        "saros": "135",
+        "umbralMagnitude": "1.117",
+        "duration": "03:33:00\n00:54:00",
+        "geoRegion": "Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2030-06-01",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "06:29:13",
+        "type": "Annular",
+        "saros": "128",
+        "umbralMagnitude": "0.944",
+        "duration": "00:05:21",
+        "geoRegion": "Europe, n Africa, Mid East, Asia, Arctic, Alaska"
+    },
+    {
+        "date": "2030-06-15",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:34:34",
+        "type": "Partial",
+        "saros": "140",
+        "umbralMagnitude": "0.502",
+        "duration": "02:24:00",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2030-11-25",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "06:51:37",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.047",
+        "duration": "00:03:44",
+        "geoRegion": "s Africa, s Indian Oc., E. Indies, Australia, Antarctica"
+    },
+    {
+        "date": "2030-12-09",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:28:51",
+        "type": "Penumbral",
+        "saros": "145",
+        "umbralMagnitude": "-0.163",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2031-05-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:52:02",
+        "type": "Penumbral",
+        "saros": "112",
+        "umbralMagnitude": "-0.09",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2031-05-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "07:16:04",
+        "type": "Annular",
+        "saros": "138",
+        "umbralMagnitude": "0.959",
+        "duration": "00:05:26",
+        "geoRegion": "Africa, s Asia, E. Indies, Australia"
+    },
+    {
+        "date": "2031-06-05",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:45:17",
+        "type": "Penumbral",
+        "saros": "150",
+        "umbralMagnitude": "-0.82",
+        "duration": "N/A",
+        "geoRegion": "East Indies, Australia, Pacific"
+    },
+    {
+        "date": "2031-10-30",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "07:46:45",
+        "type": "Penumbral",
+        "saros": "117",
+        "umbralMagnitude": "-0.32",
+        "duration": "N/A",
+        "geoRegion": "Americas"
+    },
+    {
+        "date": "2031-11-14",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "21:07:30",
+        "type": "Hybrid",
+        "saros": "143",
+        "umbralMagnitude": "1.011",
+        "duration": "00:01:08",
+        "geoRegion": "Pacific, s US, C. America, nw S. America"
+    },
+    {
+        "date": "2032-04-25",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:14:51",
+        "type": "Total",
+        "saros": "122",
+        "umbralMagnitude": "1.191",
+        "duration": "03:31:00\n01:06:00",
+        "geoRegion": "e Africa, Asia, Australia, Pacific"
+    },
+    {
+        "date": "2032-05-09",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "13:26:42",
+        "type": "Annular",
+        "saros": "148",
+        "umbralMagnitude": "0.996",
+        "duration": "00:00:22",
+        "geoRegion": "s S. America, s Africa"
+    },
+    {
+        "date": "2032-10-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:03:40",
+        "type": "Total",
+        "saros": "127",
+        "umbralMagnitude": "1.103",
+        "duration": "03:16:00\n00:47:00",
+        "geoRegion": "Africa, Europe, Asia, Australia"
+    },
+    {
+        "date": "2032-11-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "05:34:12",
+        "type": "Partial",
+        "saros": "153",
+        "umbralMagnitude": "0.855",
+        "duration": "N/A",
+        "geoRegion": "Asia"
+    },
+    {
+        "date": "2033-03-30",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:02:35",
+        "type": "Total",
+        "saros": "120",
+        "umbralMagnitude": "1.046",
+        "duration": "00:02:37",
+        "geoRegion": "N. America"
+    },
+    {
+        "date": "2033-04-14",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:13:51",
+        "type": "Total",
+        "saros": "132",
+        "umbralMagnitude": "1.094",
+        "duration": "03:35:\n00:49:00",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2033-09-23",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "13:54:31",
+        "type": "Partial",
+        "saros": "125",
+        "umbralMagnitude": "0.689",
+        "duration": "N/A",
+        "geoRegion": "s S. America, Antarctica"
+    },
+    {
+        "date": "2033-10-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:56:23",
+        "type": "Total",
+        "saros": "137",
+        "umbralMagnitude": "1.35",
+        "duration": "03:22:00\n01:19:00",
+        "geoRegion": "Asia, Australia, Pacific, Americas"
+    },
+    {
+        "date": "2034-03-20",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:18:45",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.046",
+        "duration": "00:04:09",
+        "geoRegion": "Africa, Europe, w Asia"
+    },
+    {
+        "date": "2034-04-03",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:06:59",
+        "type": "Penumbral",
+        "saros": "142",
+        "umbralMagnitude": "-0.227",
+        "duration": "N/A",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2034-09-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "16:19:27",
+        "type": "Annular",
+        "saros": "135",
+        "umbralMagnitude": "0.974",
+        "duration": "00:02:58",
+        "geoRegion": "C. America, S. America"
+    },
+    {
+        "date": "2034-09-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:47:37",
+        "type": "Partial",
+        "saros": "147",
+        "umbralMagnitude": "0.014",
+        "duration": "00:27:00",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2035-02-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:06:12",
+        "type": "Penumbral",
+        "saros": "114",
+        "umbralMagnitude": "-0.053",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Pacific, Americas"
+    },
+    {
+        "date": "2035-03-09",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "23:05:53",
+        "type": "Annular",
+        "saros": "140",
+        "umbralMagnitude": "0.992",
+        "duration": "00:00:48",
+        "geoRegion": "Australia, New Zealand, s Pacific, Mexico, Antarctica"
+    },
+    {
+        "date": "2035-08-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:12:15",
+        "type": "Partial",
+        "saros": "119",
+        "umbralMagnitude": "0.104",
+        "duration": "01:17:00",
+        "geoRegion": "Americas, Europe, Africa, Mid East"
+    },
+    {
+        "date": "2035-09-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:56:46",
+        "type": "Total",
+        "saros": "145",
+        "umbralMagnitude": "1.032",
+        "duration": "00:02:54",
+        "geoRegion": "e Asia, Pacific"
+    },
+    {
+        "date": "2036-02-11",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:13:06",
+        "type": "Total",
+        "saros": "124",
+        "umbralMagnitude": "1.299",
+        "duration": "03:22:00\n01:14:00",
+        "geoRegion": "Americas, Europe, Africa,, Asia, w Australia"
+    },
+    {
+        "date": "2036-02-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "04:46:49",
+        "type": "Partial",
+        "saros": "150",
+        "umbralMagnitude": "0.629",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, s Australia, New Zealand"
+    },
+    {
+        "date": "2036-07-23",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:32:06",
+        "type": "Partial",
+        "saros": "117",
+        "umbralMagnitude": "0.199",
+        "duration": "N/A",
+        "geoRegion": "s Atlantic"
+    },
+    {
+        "date": "2036-08-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:52:32",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.454",
+        "duration": "03:51:00\n01:35:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2036-08-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:25:45",
+        "type": "Partial",
+        "saros": "155",
+        "umbralMagnitude": "0.862",
+        "duration": "N/A",
+        "geoRegion": "Alaska, Canada, Arctic, w Europe, nw Africa"
+    },
+    {
+        "date": "2037-01-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:48:55",
+        "type": "Partial",
+        "saros": "122",
+        "umbralMagnitude": "0.705",
+        "duration": "N/A",
+        "geoRegion": "n Africa, Europe, Mid East, w Asia"
+    },
+    {
+        "date": "2037-01-31",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "14:01:38",
+        "type": "Total",
+        "saros": "134",
+        "umbralMagnitude": "1.207",
+        "duration": "03:17:00\n01:04:00",
+        "geoRegion": "e Europe, e Africa, Asia, Australia, Pacific, N.A."
+    },
+    {
+        "date": "2037-07-13",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:40:35",
+        "type": "Total",
+        "saros": "127",
+        "umbralMagnitude": "1.041",
+        "duration": "00:03:58",
+        "geoRegion": "E. Indies, Australia, Pacific"
+    },
+    {
+        "date": "2037-07-27",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "04:09:53",
+        "type": "Partial",
+        "saros": "139",
+        "umbralMagnitude": "0.809",
+        "duration": "03:12:00",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2038-01-05",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "13:47:10",
+        "type": "Annular",
+        "saros": "132",
+        "umbralMagnitude": "0.973",
+        "duration": "00:03:18",
+        "geoRegion": "e N. America, n S. America, Atlantic, Africa, Europe"
+    },
+    {
+        "date": "2038-01-21",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:49:52",
+        "type": "Penumbral",
+        "saros": "144",
+        "umbralMagnitude": "-0.114",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2038-06-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:45:02",
+        "type": "Penumbral",
+        "saros": "111",
+        "umbralMagnitude": "-0.527",
+        "duration": "N/A",
+        "geoRegion": "e N. America, C. & S. America, Africa, w Europe"
+    },
+    {
+        "date": "2038-07-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "13:32:54",
+        "type": "Annular",
+        "saros": "137",
+        "umbralMagnitude": "0.991",
+        "duration": "00:01:00",
+        "geoRegion": "N. & C. America, S. America, Africa, Europe, Mid East"
+    },
+    {
+        "date": "2038-07-16",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:35:56",
+        "type": "Penumbral",
+        "saros": "149",
+        "umbralMagnitude": "-0.495",
+        "duration": "N/A",
+        "geoRegion": "Australia, e Asia, Pacific, w Americas"
+    },
+    {
+        "date": "2038-12-11",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:45:00",
+        "type": "Penumbral",
+        "saros": "116",
+        "umbralMagnitude": "-0.289",
+        "duration": "N/A",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2038-12-26",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:00:10",
+        "type": "Total",
+        "saros": "142",
+        "umbralMagnitude": "1.027",
+        "duration": "00:02:18",
+        "geoRegion": "se Asia, E. Indies, Australia, New Zealand, s Pacific, Antarctica"
+    },
+    {
+        "date": "2039-06-06",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:54:25",
+        "type": "Partial",
+        "saros": "121",
+        "umbralMagnitude": "0.885",
+        "duration": "02:59:00",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2039-06-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:12:53",
+        "type": "Annular",
+        "saros": "147",
+        "umbralMagnitude": "0.945",
+        "duration": "00:04:05",
+        "geoRegion": "N. America, w Europe"
+    },
+    {
+        "date": "2039-11-30",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "16:56:28",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.943",
+        "duration": "03:26:00",
+        "geoRegion": "Europe, Africa, Asia, Australia, Pacific"
+    },
+    {
+        "date": "2039-12-15",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "16:23:46",
+        "type": "Total",
+        "saros": "152",
+        "umbralMagnitude": "1.036",
+        "duration": "00:01:51",
+        "geoRegion": "s S. America, Antarctica"
+    },
+    {
+        "date": "2040-05-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:43:02",
+        "type": "Partial",
+        "saros": "119",
+        "umbralMagnitude": "0.531",
+        "duration": "N/A",
+        "geoRegion": "Australia, N.Z., Antarctica"
+    },
+    {
+        "date": "2040-05-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:46:22",
+        "type": "Total",
+        "saros": "131",
+        "umbralMagnitude": "1.535",
+        "duration": "03:31:\n01:32:00",
+        "geoRegion": "e Asia, Australia, Pacific, w Americas"
+    },
+    {
+        "date": "2040-11-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "19:09:01",
+        "type": "Partial",
+        "saros": "124",
+        "umbralMagnitude": "0.807",
+        "duration": "N/A",
+        "geoRegion": "N. & C. America"
+    },
+    {
+        "date": "2040-11-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:04:41",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.397",
+        "duration": "03:40:00\n01:28:00",
+        "geoRegion": "e Americas, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2041-04-30",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "11:52:20",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.019",
+        "duration": "00:01:51",
+        "geoRegion": "Brazil, Africa, Mid East"
+    },
+    {
+        "date": "2041-05-16",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "00:43:03",
+        "type": "Partial",
+        "saros": "141",
+        "umbralMagnitude": "0.064",
+        "duration": "00:58:00",
+        "geoRegion": "e Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2041-10-25",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:36:21",
+        "type": "Annular",
+        "saros": "134",
+        "umbralMagnitude": "0.947",
+        "duration": "00:06:07",
+        "geoRegion": "e Asia, Pacific"
+    },
+    {
+        "date": "2041-11-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "04:35:05",
+        "type": "Partial",
+        "saros": "146",
+        "umbralMagnitude": "0.17",
+        "duration": "01:30:00",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2042-04-05",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "14:30:11",
+        "type": "Penumbral",
+        "saros": "113",
+        "umbralMagnitude": "-0.218",
+        "duration": "N/A",
+        "geoRegion": "Asia, Australia, Pacific"
+    },
+    {
+        "date": "2042-04-20",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:17:30",
+        "type": "Total",
+        "saros": "139",
+        "umbralMagnitude": "1.061",
+        "duration": "00:04:51",
+        "geoRegion": "e Asia, se Asia, Australia, Pacific"
+    },
+    {
+        "date": "2042-09-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:45:47",
+        "type": "Penumbral",
+        "saros": "118",
+        "umbralMagnitude": "-0.003",
+        "duration": "N/A",
+        "geoRegion": "Asia, Australia, Pacific, Americas"
+    },
+    {
+        "date": "2042-10-14",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:00:41",
+        "type": "Annular",
+        "saros": "144",
+        "umbralMagnitude": "0.93",
+        "duration": "00:07:44",
+        "geoRegion": "se Asia, E. Indies, Australia, , s Pacific, Antarctica"
+    },
+    {
+        "date": "2043-03-25",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "14:32:04",
+        "type": "Total",
+        "saros": "123",
+        "umbralMagnitude": "1.114",
+        "duration": "03:35:00\n00:53:00",
+        "geoRegion": "e Africa, e Europe, Asia, Australia, Pacific, w N.A."
+    },
+    {
+        "date": "2043-04-09",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:57:49",
+        "type": "Total",
+        "saros": "149",
+        "umbralMagnitude": "1.01",
+        "duration": "N/A",
+        "geoRegion": "n N. America, ne Asia"
+    },
+    {
+        "date": "2043-09-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:51:50",
+        "type": "Total",
+        "saros": "128",
+        "umbralMagnitude": "1.256",
+        "duration": "03:26:\n01:12:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2043-10-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:01:48",
+        "type": "Annular",
+        "saros": "154",
+        "umbralMagnitude": "0.95",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, sw Australia, Indian Ocean"
+    },
+    {
+        "date": "2044-02-28",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:24:39",
+        "type": "Annular",
+        "saros": "121",
+        "umbralMagnitude": "0.96",
+        "duration": "00:02:27",
+        "geoRegion": "Antarctica, S. America"
+    },
+    {
+        "date": "2044-03-13",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:38:33",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.203",
+        "duration": "03:29:00\n01:06:00",
+        "geoRegion": "e S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2044-08-23",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:17:01",
+        "type": "Total",
+        "saros": "126",
+        "umbralMagnitude": "1.036",
+        "duration": "00:02:04",
+        "geoRegion": "n Asia, w N. America, Greenland"
+    },
+    {
+        "date": "2044-09-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:20:44",
+        "type": "Total",
+        "saros": "138",
+        "umbralMagnitude": "1.046",
+        "duration": "03:26:00\n00:34:00",
+        "geoRegion": "e Asia, Australia, Pacific, Americas"
+    },
+    {
+        "date": "2045-02-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "23:56:06",
+        "type": "Annular",
+        "saros": "131",
+        "umbralMagnitude": "0.928",
+        "duration": "00:07:47",
+        "geoRegion": "Australia, New Zealand, Pacific, Hawaii"
+    },
+    {
+        "date": "2045-03-03",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "07:43:26",
+        "type": "Penumbral",
+        "saros": "143",
+        "umbralMagnitude": "-0.017",
+        "duration": "N/A",
+        "geoRegion": "Americas"
+    },
+    {
+        "date": "2045-08-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:42:39",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.077",
+        "duration": "00:06:06",
+        "geoRegion": "N. & C. America, S. America, w Africa"
+    },
+    {
+        "date": "2045-08-27",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "13:54:50",
+        "type": "Penumbral",
+        "saros": "148",
+        "umbralMagnitude": "-0.392",
+        "duration": "N/A",
+        "geoRegion": "Asia, Australia, w N America"
+    },
+    {
+        "date": "2046-01-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "13:02:37",
+        "type": "Partial",
+        "saros": "115",
+        "umbralMagnitude": "0.053",
+        "duration": "00:50:00",
+        "geoRegion": "Asia, Australia, N America"
+    },
+    {
+        "date": "2046-02-05",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "23:06:26",
+        "type": "Annular",
+        "saros": "141",
+        "umbralMagnitude": "0.923",
+        "duration": "00:09:42",
+        "geoRegion": "Australia, Papua New Guinea, w US"
+    },
+    {
+        "date": "2046-07-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:06:05",
+        "type": "Partial",
+        "saros": "120",
+        "umbralMagnitude": "0.246",
+        "duration": "01:55:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2046-08-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:21:13",
+        "type": "Total",
+        "saros": "146",
+        "umbralMagnitude": "1.053",
+        "duration": "00:04:51",
+        "geoRegion": "Brazil, Africa"
+    },
+    {
+        "date": "2047-01-12",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:26:14",
+        "type": "Total",
+        "saros": "125",
+        "umbralMagnitude": "1.234",
+        "duration": "03:29:00\n01:10:00",
+        "geoRegion": "Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2047-01-26",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:33:17",
+        "type": "Partial",
+        "saros": "151",
+        "umbralMagnitude": "0.891",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Alaska"
+    },
+    {
+        "date": "2047-06-23",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:52:30",
+        "type": "Partial",
+        "saros": "118",
+        "umbralMagnitude": "0.313",
+        "duration": "N/A",
+        "geoRegion": "n Canada, Greenland, ne Asia"
+    },
+    {
+        "date": "2047-07-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:35:45",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.751",
+        "duration": "03:39:00\n01:41:00",
+        "geoRegion": "e Asia, Australia, Pacific, Americas"
+    },
+    {
+        "date": "2047-07-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "22:36:16",
+        "type": "Partial",
+        "saros": "156",
+        "umbralMagnitude": "0.361",
+        "duration": "N/A",
+        "geoRegion": "se Australia, New Zealand"
+    },
+    {
+        "date": "2047-12-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "23:50:12",
+        "type": "Partial",
+        "saros": "123",
+        "umbralMagnitude": "0.882",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, s Chile, s Argentina"
+    },
+    {
+        "date": "2048-01-01",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "06:53:55",
+        "type": "Total",
+        "saros": "135",
+        "umbralMagnitude": "1.128",
+        "duration": "03:34:00\n00:56:00",
+        "geoRegion": "ne Asia, Pacific, Americas, w Europe, w Africa"
+    },
+    {
+        "date": "2048-06-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "12:58:52",
+        "type": "Annular",
+        "saros": "128",
+        "umbralMagnitude": "0.944",
+        "duration": "00:04:58",
+        "geoRegion": "N. America, Caribbean, n Africa, Europe, w Asia"
+    },
+    {
+        "date": "2048-06-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:02:28",
+        "type": "Partial",
+        "saros": "140",
+        "umbralMagnitude": "0.639",
+        "duration": "02:39:00",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2048-12-05",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "15:35:27",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.044",
+        "duration": "00:03:28",
+        "geoRegion": "s S. America, sw Africa"
+    },
+    {
+        "date": "2048-12-20",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "06:27:48",
+        "type": "Penumbral",
+        "saros": "145",
+        "umbralMagnitude": "-0.144",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, w Africa"
+    },
+    {
+        "date": "2049-05-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:26:39",
+        "type": "Penumbral",
+        "saros": "112",
+        "umbralMagnitude": "-0.209",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Pacific, w Americas"
+    },
+    {
+        "date": "2049-05-31",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "13:59:58",
+        "type": "Annular",
+        "saros": "138",
+        "umbralMagnitude": "0.963",
+        "duration": "00:04:45",
+        "geoRegion": "se US, C. America, S. America, Africa, s Europe"
+    },
+    {
+        "date": "2049-06-15",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:14:12",
+        "type": "Penumbral",
+        "saros": "150",
+        "umbralMagnitude": "-0.699",
+        "duration": "N/A",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2049-11-09",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:52:11",
+        "type": "Penumbral",
+        "saros": "117",
+        "umbralMagnitude": "-0.355",
+        "duration": "N/A",
+        "geoRegion": "Europe, Africa, Asia, Australia, Pacific, nw N.A."
+    },
+    {
+        "date": "2049-11-25",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "05:33:47",
+        "type": "Hybrid",
+        "saros": "143",
+        "umbralMagnitude": "1.006",
+        "duration": "00:00:38",
+        "geoRegion": "e Africa, s Asia, East Indies, Australia"
+    },
+    {
+        "date": "2050-05-06",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:32:02",
+        "type": "Total",
+        "saros": "122",
+        "umbralMagnitude": "1.077",
+        "duration": "03:26:00\n00:43:00",
+        "geoRegion": "e Americas, Europe, Africa, Asia, w Australia"
+    },
+    {
+        "date": "2050-05-20",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:42:50",
+        "type": "Hybrid",
+        "saros": "148",
+        "umbralMagnitude": "1.004",
+        "duration": "00:00:21",
+        "geoRegion": "N.Z., s Pacific, sw S. America"
+    },
+    {
+        "date": "2050-10-30",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:21:47",
+        "type": "Total",
+        "saros": "127",
+        "umbralMagnitude": "1.054",
+        "duration": "03:13:00\n00:34:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2050-11-14",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "13:30:52",
+        "type": "Partial",
+        "saros": "153",
+        "umbralMagnitude": "0.887",
+        "duration": "N/A",
+        "geoRegion": "ne US, e Canada, n Africa, Europe"
+    },
+    {
+        "date": "2051-04-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:10:38",
+        "type": "Partial",
+        "saros": "120",
+        "umbralMagnitude": "0.985",
+        "duration": "N/A",
+        "geoRegion": "Asia, Alaska, Canada, Greenland"
+    },
+    {
+        "date": "2051-04-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:16:28",
+        "type": "Total",
+        "saros": "132",
+        "umbralMagnitude": "1.202",
+        "duration": "03:41:00\n01:10:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2051-10-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "21:02:14",
+        "type": "Partial",
+        "saros": "125",
+        "umbralMagnitude": "0.602",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, Australia, New Zealand"
+    },
+    {
+        "date": "2051-10-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:11:50",
+        "type": "Total",
+        "saros": "137",
+        "umbralMagnitude": "1.412",
+        "duration": "03:24:00\n01:24:00",
+        "geoRegion": "e S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2052-03-30",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:31:52",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.047",
+        "duration": "00:04:08",
+        "geoRegion": "N. America, C. America, n S. America"
+    },
+    {
+        "date": "2052-04-14",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:18:06",
+        "type": "Penumbral",
+        "saros": "142",
+        "umbralMagnitude": "-0.131",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2052-09-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "23:39:09",
+        "type": "Annular",
+        "saros": "135",
+        "umbralMagnitude": "0.973",
+        "duration": "00:02:51",
+        "geoRegion": "Australia, N.Z., Antarctica, w Indies"
+    },
+    {
+        "date": "2052-10-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:45:58",
+        "type": "Partial",
+        "saros": "147",
+        "umbralMagnitude": "0.082",
+        "duration": "01:03:00",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2053-03-04",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:22:10",
+        "type": "Penumbral",
+        "saros": "114",
+        "umbralMagnitude": "-0.081",
+        "duration": "N/A",
+        "geoRegion": "Europe, Africa, Asia, Australia, e N America"
+    },
+    {
+        "date": "2053-03-20",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "07:08:19",
+        "type": "Annular",
+        "saros": "140",
+        "umbralMagnitude": "0.992",
+        "duration": "00:00:50",
+        "geoRegion": "Africa, Indies, Australia, Antarctica"
+    },
+    {
+        "date": "2053-08-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "08:05:50",
+        "type": "Penumbral",
+        "saros": "119",
+        "umbralMagnitude": "-0.033",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Americas, w Africa, w Europe"
+    },
+    {
+        "date": "2053-09-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:34:09",
+        "type": "Total",
+        "saros": "145",
+        "umbralMagnitude": "1.033",
+        "duration": "00:03:04",
+        "geoRegion": "Greenland, Africa, Europe, Asia"
+    },
+    {
+        "date": "2054-02-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "06:51:27",
+        "type": "Total",
+        "saros": "124",
+        "umbralMagnitude": "1.277",
+        "duration": "03:21:00\n01:12:00",
+        "geoRegion": "e Asia, e Australia, Americas, Europe, w Africa"
+    },
+    {
+        "date": "2054-03-09",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "12:33:40",
+        "type": "Partial",
+        "saros": "150",
+        "umbralMagnitude": "0.668",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, South Africa, Madagascar, Chile"
+    },
+    {
+        "date": "2054-08-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:04:01",
+        "type": "Partial",
+        "saros": "117",
+        "umbralMagnitude": "0.066",
+        "duration": "N/A",
+        "geoRegion": "Antarctica"
+    },
+    {
+        "date": "2054-08-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:26:30",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.306",
+        "duration": "03:47:00\n01:23:00",
+        "geoRegion": "e Asia, Australia, Americas, w Africa"
+    },
+    {
+        "date": "2054-09-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:09:33",
+        "type": "Partial",
+        "saros": "155",
+        "umbralMagnitude": "0.979",
+        "duration": "N/A",
+        "geoRegion": "Asia, U.S., Canada, Greenland"
+    },
+    {
+        "date": "2055-01-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:54:05",
+        "type": "Partial",
+        "saros": "122",
+        "umbralMagnitude": "0.693",
+        "duration": "N/A",
+        "geoRegion": "Canada, U.S., Mexico, Cuba"
+    },
+    {
+        "date": "2055-02-11",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:46:17",
+        "type": "Total",
+        "saros": "134",
+        "umbralMagnitude": "1.225",
+        "duration": "03:18:00\n01:06:00",
+        "geoRegion": "Americas, Europe, Africa, Asia, w Australia"
+    },
+    {
+        "date": "2055-07-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:57:49",
+        "type": "Total",
+        "saros": "127",
+        "umbralMagnitude": "1.036",
+        "duration": "00:03:17",
+        "geoRegion": "Africa, Antarctica"
+    },
+    {
+        "date": "2055-08-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:53:18",
+        "type": "Partial",
+        "saros": "139",
+        "umbralMagnitude": "0.959",
+        "duration": "03:23:00",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2056-01-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "22:16:45",
+        "type": "Annular",
+        "saros": "132",
+        "umbralMagnitude": "0.976",
+        "duration": "00:02:52",
+        "geoRegion": "N.Z., Central Pacific, Western North America"
+    },
+    {
+        "date": "2056-02-01",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "12:26:06",
+        "type": "Penumbral",
+        "saros": "144",
+        "umbralMagnitude": "-0.11",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, N America, w S America"
+    },
+    {
+        "date": "2056-06-27",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:03:09",
+        "type": "Penumbral",
+        "saros": "111",
+        "umbralMagnitude": "-0.652",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, sw N America, S America"
+    },
+    {
+        "date": "2056-07-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:21:58",
+        "type": "Annular",
+        "saros": "137",
+        "umbralMagnitude": "0.988",
+        "duration": "00:01:26",
+        "geoRegion": "s N. America, C. America, n S. America"
+    },
+    {
+        "date": "2056-07-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:43:24",
+        "type": "Penumbral",
+        "saros": "149",
+        "umbralMagnitude": "-0.349",
+        "duration": "N/A",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2056-12-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:48:56",
+        "type": "Penumbral",
+        "saros": "116",
+        "umbralMagnitude": "-0.311",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2057-01-05",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:47:51",
+        "type": "Total",
+        "saros": "142",
+        "umbralMagnitude": "1.029",
+        "duration": "00:02:29",
+        "geoRegion": "Africa, Antarctica, Australia"
+    },
+    {
+        "date": "2057-06-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:26:20",
+        "type": "Partial",
+        "saros": "121",
+        "umbralMagnitude": "0.755",
+        "duration": "02:49:00",
+        "geoRegion": "Americas, Europe, Africa, Middle East"
+    },
+    {
+        "date": "2057-07-01",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "23:40:15",
+        "type": "Annular",
+        "saros": "147",
+        "umbralMagnitude": "0.946",
+        "duration": "00:04:22",
+        "geoRegion": "Asia, North America"
+    },
+    {
+        "date": "2057-12-11",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "00:53:38",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.918",
+        "duration": "03:24:00",
+        "geoRegion": "Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2057-12-26",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:14:35",
+        "type": "Total",
+        "saros": "152",
+        "umbralMagnitude": "1.035",
+        "duration": "00:01:50",
+        "geoRegion": "Antarctica, Australia"
+    },
+    {
+        "date": "2058-05-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:39:25",
+        "type": "Partial",
+        "saros": "119",
+        "umbralMagnitude": "0.414",
+        "duration": "N/A",
+        "geoRegion": "South Africa, Madagascar"
+    },
+    {
+        "date": "2058-06-06",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:15:48",
+        "type": "Total",
+        "saros": "131",
+        "umbralMagnitude": "1.661",
+        "duration": "03:33:00\n01:37:00",
+        "geoRegion": "e S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2058-06-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "00:19:34",
+        "type": "Partial",
+        "saros": "157",
+        "umbralMagnitude": "0.126",
+        "duration": "N/A",
+        "geoRegion": "Russia, Greenland, Norway, Sweden, Finland"
+    },
+    {
+        "date": "2058-11-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:23:07",
+        "type": "Partial",
+        "saros": "124",
+        "umbralMagnitude": "0.764",
+        "duration": "N/A",
+        "geoRegion": "Russia, China, Mongolia, Japan"
+    },
+    {
+        "date": "2058-11-30",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:16:18",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.426",
+        "duration": "03:41:00\n01:30:00",
+        "geoRegion": "nw Asia, Americas, Europe, Africa"
+    },
+    {
+        "date": "2059-05-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "19:22:15",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.024",
+        "duration": "00:02:23",
+        "geoRegion": "N. America, C. America, S. America"
+    },
+    {
+        "date": "2059-05-27",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "07:55:35",
+        "type": "Partial",
+        "saros": "141",
+        "umbralMagnitude": "0.183",
+        "duration": "01:37:00",
+        "geoRegion": "e Indies, Australia, Americas, w Africa"
+    },
+    {
+        "date": "2059-11-05",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:18:14",
+        "type": "Annular",
+        "saros": "134",
+        "umbralMagnitude": "0.942",
+        "duration": "00:07:00",
+        "geoRegion": "Africa, Europe, Asia"
+    },
+    {
+        "date": "2059-11-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "13:01:36",
+        "type": "Partial",
+        "saros": "146",
+        "umbralMagnitude": "0.208",
+        "duration": "01:39:00",
+        "geoRegion": "e Europe, e Africa, Asia, Australia, N America"
+    },
+    {
+        "date": "2060-04-15",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "21:37:04",
+        "type": "Penumbral",
+        "saros": "113",
+        "umbralMagnitude": "-0.316",
+        "duration": "N/A",
+        "geoRegion": "S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2060-04-30",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:09:59",
+        "type": "Total",
+        "saros": "139",
+        "umbralMagnitude": "1.066",
+        "duration": "00:05:15",
+        "geoRegion": "Africa, Asia"
+    },
+    {
+        "date": "2060-10-09",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:53:32",
+        "type": "Penumbral",
+        "saros": "118",
+        "umbralMagnitude": "-0.08",
+        "duration": "N/A",
+        "geoRegion": "e S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2060-10-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:24:10",
+        "type": "Annular",
+        "saros": "144",
+        "umbralMagnitude": "0.928",
+        "duration": "00:08:06",
+        "geoRegion": "Africa, Antarctica, S. America"
+    },
+    {
+        "date": "2060-11-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "04:04:15",
+        "type": "Penumbral",
+        "saros": "156",
+        "umbralMagnitude": "-0.938",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2061-04-04",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "21:54:05",
+        "type": "Total",
+        "saros": "123",
+        "umbralMagnitude": "1.034",
+        "duration": "03:30:00\n00:30:00",
+        "geoRegion": "e Americas, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2061-04-20",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:56:49",
+        "type": "Total",
+        "saros": "149",
+        "umbralMagnitude": "1.048",
+        "duration": "00:02:37",
+        "geoRegion": "Asia. Middle East, N. America"
+    },
+    {
+        "date": "2061-09-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:38:13",
+        "type": "Total",
+        "saros": "128",
+        "umbralMagnitude": "1.162",
+        "duration": "03:22:00\n00:59:00",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2061-10-13",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:32:09",
+        "type": "Annular",
+        "saros": "154",
+        "umbralMagnitude": "0.947",
+        "duration": "00:03:41",
+        "geoRegion": "Antarctica, S. America"
+    },
+    {
+        "date": "2062-03-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "04:26:15",
+        "type": "Partial",
+        "saros": "121",
+        "umbralMagnitude": "0.933",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, Australia, New Zealand"
+    },
+    {
+        "date": "2062-03-25",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:33:50",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.27",
+        "duration": "03:31:00\n01:15:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2062-09-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "08:54:26",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.975",
+        "duration": "N/A",
+        "geoRegion": "Greenland, Europe, Asia"
+    },
+    {
+        "date": "2062-09-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:34:02",
+        "type": "Total",
+        "saros": "138",
+        "umbralMagnitude": "1.15",
+        "duration": "03:32:00\n01:00:00",
+        "geoRegion": "e S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2063-02-28",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "07:43:29",
+        "type": "Annular",
+        "saros": "131",
+        "umbralMagnitude": "0.929",
+        "duration": "00:07:41",
+        "geoRegion": "Africa, Indies, se Asia, Antarctica, Australia"
+    },
+    {
+        "date": "2063-03-14",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "16:05:49",
+        "type": "Partial",
+        "saros": "143",
+        "umbralMagnitude": "0.034",
+        "duration": "00:41:00",
+        "geoRegion": "Europe, e Africa, Asia, Australia, w N America"
+    },
+    {
+        "date": "2063-08-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:22:10",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.075",
+        "duration": "00:05:49",
+        "geoRegion": "Asia, Central Pacific"
+    },
+    {
+        "date": "2063-09-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "20:41:12",
+        "type": "Penumbral",
+        "saros": "148",
+        "umbralMagnitude": "-0.268",
+        "duration": "N/A",
+        "geoRegion": "w S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2064-02-02",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "21:48:57",
+        "type": "Partial",
+        "saros": "115",
+        "umbralMagnitude": "0.038",
+        "duration": "00:43:00",
+        "geoRegion": "w Americas, Europe, Africa, Asia, w Australia"
+    },
+    {
+        "date": "2064-02-17",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "07:00:23",
+        "type": "Annular",
+        "saros": "141",
+        "umbralMagnitude": "0.926",
+        "duration": "00:08:56",
+        "geoRegion": "Africa, Asia"
+    },
+    {
+        "date": "2064-07-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "07:52:48",
+        "type": "Partial",
+        "saros": "120",
+        "umbralMagnitude": "0.104",
+        "duration": "01:16:00",
+        "geoRegion": "e Indies, Australia, Americas, w Africa"
+    },
+    {
+        "date": "2064-08-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:46:05",
+        "type": "Total",
+        "saros": "146",
+        "umbralMagnitude": "1.049",
+        "duration": "00:04:28",
+        "geoRegion": "Americas, Antarctica"
+    },
+    {
+        "date": "2065-01-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:58:58",
+        "type": "Total",
+        "saros": "125",
+        "umbralMagnitude": "1.223",
+        "duration": "03:29:00\n01:09:00",
+        "geoRegion": "e Asia, Australia, Americas, w Europe, w Africa"
+    },
+    {
+        "date": "2065-02-05",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:52:25",
+        "type": "Partial",
+        "saros": "151",
+        "umbralMagnitude": "0.912",
+        "duration": "N/A",
+        "geoRegion": "North Africa, Europe, West Asia"
+    },
+    {
+        "date": "2065-07-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:33:52",
+        "type": "Partial",
+        "saros": "118",
+        "umbralMagnitude": "0.164",
+        "duration": "N/A",
+        "geoRegion": "Northern Europe, Russia"
+    },
+    {
+        "date": "2065-07-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:48:40",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.612",
+        "duration": "03:36:00\n01:37:00",
+        "geoRegion": "Europe, Africa, s Asia, Australia,"
+    },
+    {
+        "date": "2065-08-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "05:34:16",
+        "type": "Partial",
+        "saros": "156",
+        "umbralMagnitude": "0.49",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, South Africa, Madagascar"
+    },
+    {
+        "date": "2065-12-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "08:39:55",
+        "type": "Partial",
+        "saros": "123",
+        "umbralMagnitude": "0.877",
+        "duration": "N/A",
+        "geoRegion": "Chile Argentina, Antarctica, Australia"
+    },
+    {
+        "date": "2066-01-11",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:04:47",
+        "type": "Total",
+        "saros": "135",
+        "umbralMagnitude": "1.138",
+        "duration": "03:35:00\n00:58:00",
+        "geoRegion": "Europe, e Africa, Asia, Australia, N America"
+    },
+    {
+        "date": "2066-06-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "19:25:47",
+        "type": "Annular",
+        "saros": "128",
+        "umbralMagnitude": "0.943",
+        "duration": "00:04:40",
+        "geoRegion": "N. America, n Europe, n Asia"
+    },
+    {
+        "date": "2066-07-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:30:29",
+        "type": "Partial",
+        "saros": "140",
+        "umbralMagnitude": "0.775",
+        "duration": "02:51:00",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2066-12-17",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "00:23:39",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.042",
+        "duration": "00:03:14",
+        "geoRegion": "Australia, Antarctica, N.Z."
+    },
+    {
+        "date": "2066-12-31",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "14:30:10",
+        "type": "Penumbral",
+        "saros": "145",
+        "umbralMagnitude": "-0.128",
+        "duration": "N/A",
+        "geoRegion": "e Europe, e Africa, Asia, Australia, N America"
+    },
+    {
+        "date": "2067-05-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:56:08",
+        "type": "Penumbral",
+        "saros": "112",
+        "umbralMagnitude": "-0.333",
+        "duration": "N/A",
+        "geoRegion": "e S America, Europe, Africa, s Asia, Australia"
+    },
+    {
+        "date": "2067-06-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:42:26",
+        "type": "Annular",
+        "saros": "138",
+        "umbralMagnitude": "0.967",
+        "duration": "00:04:05",
+        "geoRegion": "Americas"
+    },
+    {
+        "date": "2067-06-27",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:41:06",
+        "type": "Penumbral",
+        "saros": "150",
+        "umbralMagnitude": "-0.575",
+        "duration": "N/A",
+        "geoRegion": "Americas, sw Europe, Africa, Middle East"
+    },
+    {
+        "date": "2067-11-21",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "00:04:42",
+        "type": "Penumbral",
+        "saros": "117",
+        "umbralMagnitude": "-0.381",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2067-12-06",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "14:03:42",
+        "type": "Hybrid",
+        "saros": "143",
+        "umbralMagnitude": "1.001",
+        "duration": "00:00:08",
+        "geoRegion": "Americas, Africa, s Europe"
+    },
+    {
+        "date": "2068-05-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "05:42:17",
+        "type": "Partial",
+        "saros": "122",
+        "umbralMagnitude": "0.953",
+        "duration": "03:19:00",
+        "geoRegion": "e Australia, Americas, sw Europe, Africa"
+    },
+    {
+        "date": "2068-05-31",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:56:39",
+        "type": "Total",
+        "saros": "148",
+        "umbralMagnitude": "1.011",
+        "duration": "00:01:06",
+        "geoRegion": "Indies, Australia, Antarctica"
+    },
+    {
+        "date": "2068-11-09",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:47:00",
+        "type": "Total",
+        "saros": "127",
+        "umbralMagnitude": "1.015",
+        "duration": "03:10:00\n00:18:00",
+        "geoRegion": "ne Europe, Asia, Australia, Americas"
+    },
+    {
+        "date": "2068-11-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "21:32:29",
+        "type": "Partial",
+        "saros": "153",
+        "umbralMagnitude": "0.911",
+        "duration": "N/A",
+        "geoRegion": "North America, Russia"
+    },
+    {
+        "date": "2069-04-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:11:08",
+        "type": "Partial",
+        "saros": "120",
+        "umbralMagnitude": "0.899",
+        "duration": "N/A",
+        "geoRegion": "Europe, Asia, n Africa, N. America"
+    },
+    {
+        "date": "2069-05-06",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:09:57",
+        "type": "Total",
+        "saros": "132",
+        "umbralMagnitude": "1.323",
+        "duration": "03:46:00\n01:24:00",
+        "geoRegion": "e Asia, Australia, Americas, w Africa"
+    },
+    {
+        "date": "2069-05-20",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:53:17",
+        "type": "Partial",
+        "saros": "158",
+        "umbralMagnitude": "0.088",
+        "duration": "N/A",
+        "geoRegion": "South America, Antarctica"
+    },
+    {
+        "date": "2069-10-15",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "04:19:56",
+        "type": "Partial",
+        "saros": "125",
+        "umbralMagnitude": "0.53",
+        "duration": "N/A",
+        "geoRegion": "Antarctica"
+    },
+    {
+        "date": "2069-10-30",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:35:06",
+        "type": "Total",
+        "saros": "137",
+        "umbralMagnitude": "1.462",
+        "duration": "03:26:00\n01:27:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2070-04-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:36:09",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.047",
+        "duration": "00:04:04",
+        "geoRegion": "Asia, Indies, Alaska, Canada"
+    },
+    {
+        "date": "2070-04-25",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "9:21:24",
+        "type": "Penumbral",
+        "saros": "142",
+        "umbralMagnitude": "-0.021",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2070-10-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "07:08:56",
+        "type": "Annular",
+        "saros": "135",
+        "umbralMagnitude": "0.973",
+        "duration": "00:02:44",
+        "geoRegion": "Africa, Antarctica, Australia"
+    },
+    {
+        "date": "2070-10-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:51:12",
+        "type": "Partial",
+        "saros": "147",
+        "umbralMagnitude": "0.138",
+        "duration": "01:22:00",
+        "geoRegion": "e S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2071-03-16",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:31:09",
+        "type": "Penumbral",
+        "saros": "114",
+        "umbralMagnitude": "-0.119",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2071-03-31",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "15:01:05",
+        "type": "Annular",
+        "saros": "140",
+        "umbralMagnitude": "0.992",
+        "duration": "00:00:52",
+        "geoRegion": "S. America, Africa, Antarctica"
+    },
+    {
+        "date": "2071-09-09",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:05:41",
+        "type": "Penumbral",
+        "saros": "119",
+        "umbralMagnitude": "-0.159",
+        "duration": "N/A",
+        "geoRegion": "e Europe, e Africa, Asia, Australia, w N.A."
+    },
+    {
+        "date": "2071-09-23",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:20:28",
+        "type": "Total",
+        "saros": "145",
+        "umbralMagnitude": "1.033",
+        "duration": "00:03:11",
+        "geoRegion": "Americas, Africa"
+    },
+    {
+        "date": "2072-03-04",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:23:07",
+        "type": "Total",
+        "saros": "124",
+        "umbralMagnitude": "1.244",
+        "duration": "03:19:00\n01:08:00",
+        "geoRegion": "e Europe, e Africa, Asia, Australia, w N.A."
+    },
+    {
+        "date": "2072-03-19",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:10:31",
+        "type": "Partial",
+        "saros": "150",
+        "umbralMagnitude": "0.72",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, S. America"
+    },
+    {
+        "date": "2072-08-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "16:05:42",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.166",
+        "duration": "03:40:00\n01:04:00",
+        "geoRegion": "Europe, Africa, Asia, Australia, w N America"
+    },
+    {
+        "date": "2072-09-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "08:59:20",
+        "type": "Total",
+        "saros": "155",
+        "umbralMagnitude": "1.056",
+        "duration": "00:03:13",
+        "geoRegion": "Greenland, Europe, Asia"
+    },
+    {
+        "date": "2073-02-07",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:55:58",
+        "type": "Partial",
+        "saros": "122",
+        "umbralMagnitude": "0.677",
+        "duration": "N/A",
+        "geoRegion": "Asia, Alaska"
+    },
+    {
+        "date": "2073-02-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "07:24:53",
+        "type": "Total",
+        "saros": "134",
+        "umbralMagnitude": "1.25",
+        "duration": "03:20:00\n01:09:00",
+        "geoRegion": "e Asia, e Australia, Americas, Europe, w Africa"
+    },
+    {
+        "date": "2073-08-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:15:22",
+        "type": "Total",
+        "saros": "127",
+        "umbralMagnitude": "1.029",
+        "duration": "00:02:29",
+        "geoRegion": "S. America, Antarctica"
+    },
+    {
+        "date": "2073-08-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:42:41",
+        "type": "Total",
+        "saros": "139",
+        "umbralMagnitude": "1.101",
+        "duration": "03:32:00\n00:50:00",
+        "geoRegion": "Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2074-01-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "06:44:14",
+        "type": "Annular",
+        "saros": "132",
+        "umbralMagnitude": "0.98",
+        "duration": "00:02:21",
+        "geoRegion": "Africa, Asia, Indies"
+    },
+    {
+        "date": "2074-02-11",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "20:55:58",
+        "type": "Penumbral",
+        "saros": "144",
+        "umbralMagnitude": "-0.097",
+        "duration": "N/A",
+        "geoRegion": "e Americas, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2074-07-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:21:38",
+        "type": "Penumbral",
+        "saros": "111",
+        "umbralMagnitude": "-0.777",
+        "duration": "N/A",
+        "geoRegion": "e Africa, s Asia, Australia,"
+    },
+    {
+        "date": "2074-07-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:10:31",
+        "type": "Annular",
+        "saros": "137",
+        "umbralMagnitude": "0.984",
+        "duration": "00:01:57",
+        "geoRegion": "Asia, Indies, Australia, N.Z."
+    },
+    {
+        "date": "2074-08-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:56:03",
+        "type": "Penumbral",
+        "saros": "149",
+        "umbralMagnitude": "-0.209",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, Middle East"
+    },
+    {
+        "date": "2075-01-02",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:55:03",
+        "type": "Penumbral",
+        "saros": "116",
+        "umbralMagnitude": "-0.327",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2075-01-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:36:03",
+        "type": "Total",
+        "saros": "142",
+        "umbralMagnitude": "1.031",
+        "duration": "00:02:42",
+        "geoRegion": "N.Z., S. America, Antarctica,"
+    },
+    {
+        "date": "2075-06-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:55:35",
+        "type": "Partial",
+        "saros": "121",
+        "umbralMagnitude": "0.622",
+        "duration": "02:37:00",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2075-07-13",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "06:05:43",
+        "type": "Annular",
+        "saros": "147",
+        "umbralMagnitude": "0.947",
+        "duration": "00:04:45",
+        "geoRegion": "Europe, Asia, Africa, n N. America"
+    },
+    {
+        "date": "2075-12-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "08:55:55",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.901",
+        "duration": "03:23:00",
+        "geoRegion": "e Asia, Australia, Americas, w Africa, Europe"
+    },
+    {
+        "date": "2076-01-06",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:07:27",
+        "type": "Total",
+        "saros": "152",
+        "umbralMagnitude": "1.034",
+        "duration": "00:01:49",
+        "geoRegion": "Antarctica, Australia, S. America"
+    },
+    {
+        "date": "2076-06-01",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:31:21",
+        "type": "Partial",
+        "saros": "119",
+        "umbralMagnitude": "0.29",
+        "duration": "N/A",
+        "geoRegion": "S. America, Antarctica"
+    },
+    {
+        "date": "2076-06-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:39:47",
+        "type": "Total",
+        "saros": "131",
+        "umbralMagnitude": "1.794",
+        "duration": "03:35:00\n01:40:00",
+        "geoRegion": "Americas, Europe, Africa, Middle East"
+    },
+    {
+        "date": "2076-07-01",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "06:50:43",
+        "type": "Partial",
+        "saros": "157",
+        "umbralMagnitude": "0.275",
+        "duration": "N/A",
+        "geoRegion": "Russia, N. America"
+    },
+    {
+        "date": "2076-11-26",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "11:43:00",
+        "type": "Partial",
+        "saros": "124",
+        "umbralMagnitude": "0.731",
+        "duration": "N/A",
+        "geoRegion": "Africa, Europe, w Asia"
+    },
+    {
+        "date": "2076-12-10",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:34:51",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.446",
+        "duration": "03:41:00\n01:31:00",
+        "geoRegion": "e Europe, Asia, Australia, Americas"
+    },
+    {
+        "date": "2077-05-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:46:04",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.029",
+        "duration": "00:02:54",
+        "geoRegion": "Indies, Australia, N.Z., Antarctica"
+    },
+    {
+        "date": "2077-06-06",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "14:59:52",
+        "type": "Partial",
+        "saros": "141",
+        "umbralMagnitude": "0.312",
+        "duration": "02:05:00",
+        "geoRegion": "e Africa, s Asia, Australia"
+    },
+    {
+        "date": "2077-11-15",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:07:55",
+        "type": "Annular",
+        "saros": "134",
+        "umbralMagnitude": "0.937",
+        "duration": "00:07:54",
+        "geoRegion": "Americas"
+    },
+    {
+        "date": "2077-11-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "21:35:53",
+        "type": "Partial",
+        "saros": "146",
+        "umbralMagnitude": "0.236",
+        "duration": "01:45:00",
+        "geoRegion": "e Americas, Europe, Africa, Asia, w Australia"
+    },
+    {
+        "date": "2078-04-27",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "04:35:44",
+        "type": "Penumbral",
+        "saros": "113",
+        "umbralMagnitude": "-0.425",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2078-05-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:56:54",
+        "type": "Total",
+        "saros": "139",
+        "umbralMagnitude": "1.07",
+        "duration": "00:05:40",
+        "geoRegion": "Americas"
+    },
+    {
+        "date": "2078-10-21",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:08:03",
+        "type": "Penumbral",
+        "saros": "118",
+        "umbralMagnitude": "-0.146",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2078-11-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "16:55:44",
+        "type": "Annular",
+        "saros": "144",
+        "umbralMagnitude": "0.926",
+        "duration": "00:08:29",
+        "geoRegion": "Americas, Antarctica"
+    },
+    {
+        "date": "2078-11-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "12:40:04",
+        "type": "Penumbral",
+        "saros": "156",
+        "umbralMagnitude": "-0.905",
+        "duration": "N/A",
+        "geoRegion": "ne Europe, Asia, Australia, N America"
+    },
+    {
+        "date": "2079-04-16",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "05:10:45",
+        "type": "Partial",
+        "saros": "123",
+        "umbralMagnitude": "0.945",
+        "duration": "03:23:00",
+        "geoRegion": "e Australia, Americas, Europe, Africa"
+    },
+    {
+        "date": "2079-05-01",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:50:12",
+        "type": "Total",
+        "saros": "149",
+        "umbralMagnitude": "1.051",
+        "duration": "00:02:55",
+        "geoRegion": "w Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2079-10-10",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:30:30",
+        "type": "Total",
+        "saros": "128",
+        "umbralMagnitude": "1.079",
+        "duration": "03:19:00\n00:42:00",
+        "geoRegion": "Europe, Africa, Asia, Australia, nw N America"
+    },
+    {
+        "date": "2079-10-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:11:21",
+        "type": "Annular",
+        "saros": "154",
+        "umbralMagnitude": "0.948",
+        "duration": "00:03:39",
+        "geoRegion": "Antarctica, N.Z., S. America"
+    },
+    {
+        "date": "2080-03-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "12:20:15",
+        "type": "Partial",
+        "saros": "121",
+        "umbralMagnitude": "0.873",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, Africa"
+    },
+    {
+        "date": "2080-04-04",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:23:38",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.346",
+        "duration": "03:34:00\n01:22:00",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2080-09-13",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "16:38:08",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.874",
+        "duration": "N/A",
+        "geoRegion": "N. America, Europe, Africa"
+    },
+    {
+        "date": "2080-09-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:52:42",
+        "type": "Total",
+        "saros": "138",
+        "umbralMagnitude": "1.244",
+        "duration": "03:37:00\n01:14:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2081-03-10",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "15:23:30",
+        "type": "Annular",
+        "saros": "131",
+        "umbralMagnitude": "0.93",
+        "duration": "00:07:36",
+        "geoRegion": "S. America, Africa, Antarctica"
+    },
+    {
+        "date": "2081-03-25",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "00:22:01",
+        "type": "Partial",
+        "saros": "143",
+        "umbralMagnitude": "0.095",
+        "duration": "01:07:00",
+        "geoRegion": "e Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2081-09-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:07:29",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.072",
+        "duration": "00:05:33",
+        "geoRegion": "Africa, Europe, Asia"
+    },
+    {
+        "date": "2081-09-18",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:35:26",
+        "type": "Penumbral",
+        "saros": "148",
+        "umbralMagnitude": "-0.154",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2082-02-13",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "06:29:19",
+        "type": "Partial",
+        "saros": "115",
+        "umbralMagnitude": "0.013",
+        "duration": "00:26:00",
+        "geoRegion": "ne Asia, Americas, Europe, w Africa"
+    },
+    {
+        "date": "2082-02-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "14:46:59",
+        "type": "Annular",
+        "saros": "141",
+        "umbralMagnitude": "0.93",
+        "duration": "00:08:12",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2082-08-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "14:46:42",
+        "type": "Penumbral",
+        "saros": "120",
+        "umbralMagnitude": "-0.029",
+        "duration": "N/A",
+        "geoRegion": "e Africa, Asia, Australia, w N America"
+    },
+    {
+        "date": "2082-08-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:16:20",
+        "type": "Total",
+        "saros": "146",
+        "umbralMagnitude": "1.045",
+        "duration": "00:04:01",
+        "geoRegion": "Indies, Australia, Antarctica, N.Z."
+    },
+    {
+        "date": "2083-02-02",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:26:46",
+        "type": "Total",
+        "saros": "125",
+        "umbralMagnitude": "1.205",
+        "duration": "03:29:00\n01:07:00",
+        "geoRegion": "Europe, Africa, Asia, Australia, nw N America"
+    },
+    {
+        "date": "2083-02-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:06:36",
+        "type": "Partial",
+        "saros": "151",
+        "umbralMagnitude": "0.943",
+        "duration": "N/A",
+        "geoRegion": "Mexico, U.S, Canada"
+    },
+    {
+        "date": "2083-07-15",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "00:14:22",
+        "type": "Partial",
+        "saros": "118",
+        "umbralMagnitude": "0.017",
+        "duration": "N/A",
+        "geoRegion": "Greenland"
+    },
+    {
+        "date": "2083-07-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:05:34",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.477",
+        "duration": "03:33:00\n01:30:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia, w Australia"
+    },
+    {
+        "date": "2083-08-13",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "12:34:40",
+        "type": "Partial",
+        "saros": "156",
+        "umbralMagnitude": "0.615",
+        "duration": "N/A",
+        "geoRegion": "S. America, Antarctica"
+    },
+    {
+        "date": "2084-01-07",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "17:30:23",
+        "type": "Partial",
+        "saros": "123",
+        "umbralMagnitude": "0.872",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, S. America"
+    },
+    {
+        "date": "2084-01-22",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "23:13:00",
+        "type": "Total",
+        "saros": "135",
+        "umbralMagnitude": "1.151",
+        "duration": "03:36:00\n01:01:00",
+        "geoRegion": "Americas, Europe, Africa, Asia, w Australia"
+    },
+    {
+        "date": "2084-07-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:50:25",
+        "type": "Annular",
+        "saros": "128",
+        "umbralMagnitude": "0.942",
+        "duration": "00:04:25",
+        "geoRegion": "n Europe, Asia, N. America"
+    },
+    {
+        "date": "2084-07-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "16:58:51",
+        "type": "Partial",
+        "saros": "140",
+        "umbralMagnitude": "0.912",
+        "duration": "03:01:00",
+        "geoRegion": "e Europe, e Africa, Asia, Australia"
+    },
+    {
+        "date": "2084-12-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:13:47",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.04",
+        "duration": "00:03:04",
+        "geoRegion": "Africa, Antarctica, Australia"
+    },
+    {
+        "date": "2085-01-10",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:32:29",
+        "type": "Penumbral",
+        "saros": "145",
+        "umbralMagnitude": "-0.112",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, Asia, w Australia"
+    },
+    {
+        "date": "2085-06-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:17:36",
+        "type": "Penumbral",
+        "saros": "112",
+        "umbralMagnitude": "-0.468",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2085-06-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:21:15",
+        "type": "Annular",
+        "saros": "138",
+        "umbralMagnitude": "0.97",
+        "duration": "00:03:29",
+        "geoRegion": "Asia, Indies, Australia"
+    },
+    {
+        "date": "2085-07-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:04:40",
+        "type": "Penumbral",
+        "saros": "150",
+        "umbralMagnitude": "-0.448",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2085-12-01",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "08:25:35",
+        "type": "Penumbral",
+        "saros": "117",
+        "umbralMagnitude": "-0.396",
+        "duration": "N/A",
+        "geoRegion": "ne Asia, e Australia, Americas, w Africa, Europe"
+    },
+    {
+        "date": "2085-12-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "22:37:47",
+        "type": "Annular",
+        "saros": "143",
+        "umbralMagnitude": "0.997",
+        "duration": "00:00:19",
+        "geoRegion": "Australia, N. America"
+    },
+    {
+        "date": "2086-05-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "12:43:47",
+        "type": "Partial",
+        "saros": "122",
+        "umbralMagnitude": "0.818",
+        "duration": "03:09:00",
+        "geoRegion": "e Africa, e Asia, Australia, w Americas"
+    },
+    {
+        "date": "2086-06-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "11:07:13",
+        "type": "Total",
+        "saros": "148",
+        "umbralMagnitude": "1.017",
+        "duration": "00:01:48",
+        "geoRegion": "S. America, Africa"
+    },
+    {
+        "date": "2086-11-20",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "20:19:42",
+        "type": "Partial",
+        "saros": "127",
+        "umbralMagnitude": "0.986",
+        "duration": "03:08:00",
+        "geoRegion": "e Americas, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2086-12-06",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "05:38:55",
+        "type": "Partial",
+        "saros": "153",
+        "umbralMagnitude": "0.927",
+        "duration": "N/A",
+        "geoRegion": "Asia"
+    },
+    {
+        "date": "2087-05-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:04:41",
+        "type": "Partial",
+        "saros": "120",
+        "umbralMagnitude": "0.801",
+        "duration": "N/A",
+        "geoRegion": "n Europe, n Asia, N. America"
+    },
+    {
+        "date": "2087-05-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:55:20",
+        "type": "Total",
+        "saros": "132",
+        "umbralMagnitude": "1.455",
+        "duration": "03:51:00\n01:35:00",
+        "geoRegion": "e Europe, e Africa, Asia, Australia"
+    },
+    {
+        "date": "2087-06-01",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:27:13",
+        "type": "Partial",
+        "saros": "158",
+        "umbralMagnitude": "0.215",
+        "duration": "N/A",
+        "geoRegion": "New Zealand"
+    },
+    {
+        "date": "2087-10-26",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "11:46:56",
+        "type": "Partial",
+        "saros": "125",
+        "umbralMagnitude": "0.47",
+        "duration": "N/A",
+        "geoRegion": "S. America, Antarctica"
+    },
+    {
+        "date": "2087-11-10",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "12:05:33",
+        "type": "Total",
+        "saros": "137",
+        "umbralMagnitude": "1.501",
+        "duration": "03:27:00\n01:29:00",
+        "geoRegion": "ne Europe, Asia, Australia, Americas"
+    },
+    {
+        "date": "2088-04-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:31:48",
+        "type": "Total",
+        "saros": "130",
+        "umbralMagnitude": "1.047",
+        "duration": "00:03:58",
+        "geoRegion": "N. America, Africa, Europe, Asia"
+    },
+    {
+        "date": "2088-05-05",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "16:16:50",
+        "type": "Partial",
+        "saros": "142",
+        "umbralMagnitude": "0.102",
+        "duration": "01:17:00",
+        "geoRegion": "e Europe, e Africa, Asia, Australia"
+    },
+    {
+        "date": "2088-10-14",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "14:48:05",
+        "type": "Annular",
+        "saros": "135",
+        "umbralMagnitude": "0.973",
+        "duration": "00:02:38",
+        "geoRegion": "S. America, Antarctica, Africa"
+    },
+    {
+        "date": "2088-10-30",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "03:03:20",
+        "type": "Partial",
+        "saros": "147",
+        "umbralMagnitude": "0.183",
+        "duration": "01:34:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2089-03-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:34:14",
+        "type": "Penumbral",
+        "saros": "114",
+        "umbralMagnitude": "-0.168",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2089-04-10",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "22:44:40",
+        "type": "Annular",
+        "saros": "140",
+        "umbralMagnitude": "0.992",
+        "duration": "00:00:53",
+        "geoRegion": "Australia, Antarctica, N. America"
+    },
+    {
+        "date": "2089-09-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:11:17",
+        "type": "Penumbral",
+        "saros": "119",
+        "umbralMagnitude": "-0.274",
+        "duration": "N/A",
+        "geoRegion": "e Australia, e Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2089-10-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:15:22",
+        "type": "Total",
+        "saros": "145",
+        "umbralMagnitude": "1.033",
+        "duration": "00:03:14",
+        "geoRegion": "Asia, Indies, Australia"
+    },
+    {
+        "date": "2090-03-15",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "23:48:31",
+        "type": "Total",
+        "saros": "124",
+        "umbralMagnitude": "1.201",
+        "duration": "03:17:00\n01:03:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia, w Australia"
+    },
+    {
+        "date": "2090-03-31",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:38:07",
+        "type": "Partial",
+        "saros": "150",
+        "umbralMagnitude": "0.784",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, Australia, N.Z."
+    },
+    {
+        "date": "2090-09-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:52:29",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.038",
+        "duration": "03:33:00\n00:32:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia, Australia"
+    },
+    {
+        "date": "2090-09-23",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "16:56:35",
+        "type": "Total",
+        "saros": "155",
+        "umbralMagnitude": "1.056",
+        "duration": "00:03:36",
+        "geoRegion": "N. America, Europe, Africa, n Asia"
+    },
+    {
+        "date": "2091-02-18",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:54:39",
+        "type": "Partial",
+        "saros": "122",
+        "umbralMagnitude": "0.656",
+        "duration": "N/A",
+        "geoRegion": "North Africa, Europe, Asia"
+    },
+    {
+        "date": "2091-03-05",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:58:22",
+        "type": "Total",
+        "saros": "134",
+        "umbralMagnitude": "1.283",
+        "duration": "03:21:00\n01:13:00",
+        "geoRegion": "Europe, e Africa, Asia, Australia, w N America"
+    },
+    {
+        "date": "2091-08-15",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "00:34:42",
+        "type": "Total",
+        "saros": "127",
+        "umbralMagnitude": "1.022",
+        "duration": "00:01:38",
+        "geoRegion": "Australia, Antarctica, N.Z."
+    },
+    {
+        "date": "2091-08-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "00:38:25",
+        "type": "Total",
+        "saros": "139",
+        "umbralMagnitude": "1.235",
+        "duration": "03:38:\n01:13:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia, w Australia"
+    },
+    {
+        "date": "2092-02-07",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "15:10:19",
+        "type": "Annular",
+        "saros": "132",
+        "umbralMagnitude": "0.984",
+        "duration": "00:01:48",
+        "geoRegion": "Americas, Europe, Africa"
+    },
+    {
+        "date": "2092-02-23",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "05:20:59",
+        "type": "Penumbral",
+        "saros": "144",
+        "umbralMagnitude": "-0.079",
+        "duration": "N/A",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2092-07-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "00:41:58",
+        "type": "Penumbral",
+        "saros": "111",
+        "umbralMagnitude": "-0.899",
+        "duration": "N/A",
+        "geoRegion": "e N America, S America, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2092-08-03",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "09:59:31",
+        "type": "Annular",
+        "saros": "137",
+        "umbralMagnitude": "0.979",
+        "duration": "00:02:31",
+        "geoRegion": "Africa"
+    },
+    {
+        "date": "2092-08-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:13:59",
+        "type": "Penumbral",
+        "saros": "149",
+        "umbralMagnitude": "-0.076",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2093-01-12",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "18:00:03",
+        "type": "Penumbral",
+        "saros": "116",
+        "umbralMagnitude": "-0.344",
+        "duration": "N/A",
+        "geoRegion": "Europe, Africa, Asia, Australia, nw N America"
+    },
+    {
+        "date": "2093-01-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "03:22:15",
+        "type": "Total",
+        "saros": "142",
+        "umbralMagnitude": "1.034",
+        "duration": "00:02:58",
+        "geoRegion": "Indies, Australia, Antarctica, N.Z."
+    },
+    {
+        "date": "2093-07-08",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:24:18",
+        "type": "Partial",
+        "saros": "121",
+        "umbralMagnitude": "0.487",
+        "duration": "02:22:00",
+        "geoRegion": "se Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2093-07-23",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "12:32:03",
+        "type": "Annular",
+        "saros": "147",
+        "umbralMagnitude": "0.946",
+        "duration": "00:05:11",
+        "geoRegion": "Americas, Europe, Africa, Asia"
+    },
+    {
+        "date": "2094-01-01",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "17:00:06",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.887",
+        "duration": "03:21:00",
+        "geoRegion": "Europe, Africa, Asia, Australia, w N America"
+    },
+    {
+        "date": "2094-01-16",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:59:03",
+        "type": "Total",
+        "saros": "152",
+        "umbralMagnitude": "1.034",
+        "duration": "00:01:52",
+        "geoRegion": "S. America, Antarctica, N.Z."
+    },
+    {
+        "date": "2094-06-13",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "00:22:10",
+        "type": "Partial",
+        "saros": "119",
+        "umbralMagnitude": "0.162",
+        "duration": "N/A",
+        "geoRegion": "Southern Ocean (near Antarctica)"
+    },
+    {
+        "date": "2094-06-28",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:01:57",
+        "type": "Total",
+        "saros": "131",
+        "umbralMagnitude": "1.823",
+        "duration": "03:36:00\n01:41:00",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2094-07-12",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "13:24:34",
+        "type": "Partial",
+        "saros": "157",
+        "umbralMagnitude": "0.422",
+        "duration": "N/A",
+        "geoRegion": "North America, Asia"
+    },
+    {
+        "date": "2094-12-07",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:05:55",
+        "type": "Partial",
+        "saros": "124",
+        "umbralMagnitude": "0.705",
+        "duration": "N/A",
+        "geoRegion": "North America"
+    },
+    {
+        "date": "2094-12-21",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:56:32",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.463",
+        "duration": "03:40:00\n01:32:00",
+        "geoRegion": "e Americas, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2095-06-02",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:07:39",
+        "type": "Total",
+        "saros": "129",
+        "umbralMagnitude": "1.033",
+        "duration": "00:03:18",
+        "geoRegion": "Africa"
+    },
+    {
+        "date": "2095-06-17",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "22:00:11",
+        "type": "Partial",
+        "saros": "141",
+        "umbralMagnitude": "0.446",
+        "duration": "02:27:00",
+        "geoRegion": "C & S America, Europe, Africa, s Asia, Australia"
+    },
+    {
+        "date": "2095-11-27",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:02:57",
+        "type": "Annular",
+        "saros": "134",
+        "umbralMagnitude": "0.933",
+        "duration": "00:08:47",
+        "geoRegion": "Asia, Indies, Australia"
+    },
+    {
+        "date": "2095-12-11",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "06:15:02",
+        "type": "Partial",
+        "saros": "146",
+        "umbralMagnitude": "0.257",
+        "duration": "01:49:00",
+        "geoRegion": "n Asia, Americas, Europe, w Africa"
+    },
+    {
+        "date": "2096-05-07",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:24:42",
+        "type": "Penumbral",
+        "saros": "113",
+        "umbralMagnitude": "-0.547",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, w Americas"
+    },
+    {
+        "date": "2096-05-22",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "01:37:13",
+        "type": "Total",
+        "saros": "139",
+        "umbralMagnitude": "1.074",
+        "duration": "00:06:06",
+        "geoRegion": "Asia, Indies, Australia, N. America"
+    },
+    {
+        "date": "2096-06-06",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "02:43:41",
+        "type": "Penumbral",
+        "saros": "151",
+        "umbralMagnitude": "-1.058",
+        "duration": "N/A",
+        "geoRegion": "Americas, w Europe, Africa"
+    },
+    {
+        "date": "2096-10-31",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "11:30:23",
+        "type": "Penumbral",
+        "saros": "118",
+        "umbralMagnitude": "-0.201",
+        "duration": "N/A",
+        "geoRegion": "Asia, Australia, N America, w S America"
+    },
+    {
+        "date": "2096-11-15",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "00:36:14",
+        "type": "Annular",
+        "saros": "144",
+        "umbralMagnitude": "0.924",
+        "duration": "00:08:53",
+        "geoRegion": "Indies, Australia, N.Z., Antarctica"
+    },
+    {
+        "date": "2096-11-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "21:22:22",
+        "type": "Penumbral",
+        "saros": "156",
+        "umbralMagnitude": "-0.882",
+        "duration": "N/A",
+        "geoRegion": "e Americas, Europe, Africa, Asia, w Australia"
+    },
+    {
+        "date": "2097-04-26",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "12:18:17",
+        "type": "Partial",
+        "saros": "123",
+        "umbralMagnitude": "0.842",
+        "duration": "03:15:00",
+        "geoRegion": "Asia, Australia, w Americas"
+    },
+    {
+        "date": "2097-05-11",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "18:34:30",
+        "type": "Total",
+        "saros": "149",
+        "umbralMagnitude": "1.054",
+        "duration": "00:03:10",
+        "geoRegion": "Asia, N. America, n Europe"
+    },
+    {
+        "date": "2097-10-21",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "01:30:55",
+        "type": "Total",
+        "saros": "128",
+        "umbralMagnitude": "1.01",
+        "duration": "03:15:00\n00:15:00",
+        "geoRegion": "Americas, Europe, Africa, w Asia"
+    },
+    {
+        "date": "2097-11-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "02:01:24",
+        "type": "Annular",
+        "saros": "154",
+        "umbralMagnitude": "0.949",
+        "duration": "00:03:36",
+        "geoRegion": "Antarctica, Australia"
+    },
+    {
+        "date": "2098-04-01",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "20:02:30",
+        "type": "Partial",
+        "saros": "121",
+        "umbralMagnitude": "0.798",
+        "duration": "N/A",
+        "geoRegion": "Antarctica, South America"
+    },
+    {
+        "date": "2098-04-15",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "19:04:48",
+        "type": "Total",
+        "saros": "133",
+        "umbralMagnitude": "1.437",
+        "duration": "03:36:00\n01:29:00",
+        "geoRegion": "w S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2098-09-25",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "00:31:15",
+        "type": "Partial",
+        "saros": "126",
+        "umbralMagnitude": "0.787",
+        "duration": "N/A",
+        "geoRegion": "Asia, North America"
+    },
+    {
+        "date": "2098-10-10",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "09:19:58",
+        "type": "Total",
+        "saros": "138",
+        "umbralMagnitude": "1.325",
+        "duration": "03:41:00\n01:23:00",
+        "geoRegion": "e Asia, Australia, Americas, w Europe, w Africa"
+    },
+    {
+        "date": "2098-10-24",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "10:36:10",
+        "type": "Partial",
+        "saros": "164",
+        "umbralMagnitude": "0.006",
+        "duration": "N/A",
+        "geoRegion": "Southern Ocean (near Antarctica)"
+    },
+    {
+        "date": "2099-03-21",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "22:54:31",
+        "type": "Annular",
+        "saros": "131",
+        "umbralMagnitude": "0.932",
+        "duration": "00:07:32",
+        "geoRegion": "Australia, N.Z., Antarctica, N. America"
+    },
+    {
+        "date": "2099-04-05",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "08:30:56",
+        "type": "Partial",
+        "saros": "143",
+        "umbralMagnitude": "0.168",
+        "duration": "01:28:00",
+        "geoRegion": "e Asia, Australia, Americas, w Africa"
+    },
+    {
+        "date": "2099-09-14",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "16:57:52",
+        "type": "Total",
+        "saros": "136",
+        "umbralMagnitude": "1.068",
+        "duration": "00:05:18",
+        "geoRegion": "Americas, Africa"
+    },
+    {
+        "date": "2099-09-29",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "10:36:38",
+        "type": "Penumbral",
+        "saros": "148",
+        "umbralMagnitude": "-0.051",
+        "duration": "N/A",
+        "geoRegion": "e Asia, Australia, Americas"
+    },
+    {
+        "date": "2100-02-24",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "15:05:11",
+        "type": "Penumbral",
+        "saros": "115",
+        "umbralMagnitude": "-0.017",
+        "duration": "N/A",
+        "geoRegion": "e Europe, e Africa, Asia, Australia, w N America"
+    },
+    {
+        "date": "2100-03-10",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "22:28:10",
+        "type": "Annular",
+        "saros": "141",
+        "umbralMagnitude": "0.934",
+        "duration": "00:07:29",
+        "geoRegion": "Australia, N. America"
+    },
+    {
+        "date": "2100-08-19",
+        "eclipse": "Lunar Eclipse",
+        "timeGreatestEclipse": "21:44:58",
+        "type": "Penumbral",
+        "saros": "120",
+        "umbralMagnitude": "-0.158",
+        "duration": "N/A",
+        "geoRegion": "S America, Europe, Africa, Asia, Australia"
+    },
+    {
+        "date": "2100-09-04",
+        "eclipse": "Solar Eclipse",
+        "timeGreatestEclipse": "08:49:19",
+        "type": "Total",
+        "saros": "146",
+        "umbralMagnitude": "1.04",
+        "duration": "00:03:32",
+        "geoRegion": "Africa, Antarctica"
+    }
+]
