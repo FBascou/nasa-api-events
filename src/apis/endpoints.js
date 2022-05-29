@@ -4,6 +4,7 @@ const todayDate = new Date(date.getTime() - date.getTimezoneOffset() * 60000)
   .split('T')[0];
 const todayYear = date.getFullYear();
 // let addThirtyDays = new Date(date.setDate(date.getDate() + 30)- (date.getTimezoneOffset() * 60000 )).toISOString().split("T")[0];
+const API_KEY = 'q0W8trWIeEZOKtTk2prwVmoiMbnWf0aLiYXYbe9d';
 
 const endpoints = () => {
   let endpointCAD = `?dist-max=0.05&fullname=true&date-min=${todayDate}&date-max=${todayYear}-12-31&sort=date`;
