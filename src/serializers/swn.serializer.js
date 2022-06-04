@@ -1,8 +1,8 @@
 import {
-	apiEventDefinition,
-	apiEventDescription,
-	apiEventTypeName,
-	apiEventUrl,
+  apiEventDefinition,
+  apiEventDescription,
+  apiEventTypeName,
+  apiEventUrl,
 } from '../apis/apiDataInfo';
 
 /*
@@ -16,14 +16,14 @@ import {
  * */
 
 export function swnSerializer(apiData) {
-	return apiData
-		.filter((filtered) => filtered.messageType !== 'Report')
-		.map((item) => ({
-			name: item.messageType,
-			type: apiEventTypeName.SWN,
-			date: item.messageIssueTime,
-			description: apiEventDescription.SWN[item.messageType],
-			definition: apiEventDefinition.SWN,
-			url: apiEventUrl.SWN,
-		}));
+  return apiData
+    .filter((filtered) => filtered.messageType !== 'Report')
+    .map((item) => ({
+      name: item.messageType,
+      type: apiEventTypeName.SWN,
+      date: item.messageIssueTime.split('T')[0],
+      description: apiEventDescription.SWN[item.messageType],
+      definition: apiEventDefinition.SWN,
+      url: apiEventUrl.SWN,
+    }));
 }
