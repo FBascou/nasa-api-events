@@ -1,9 +1,4 @@
-import {
-  apiEventDefinition,
-  apiEventDescription,
-  apiEventTypeName,
-  apiEventUrl,
-} from '../apis/apiDataInfo';
+import { apiEventDescription, apiEventTypeName, apiEventUrl } from '../apis/apiDataInfo';
 
 /*
  * data comming from API are
@@ -23,7 +18,6 @@ export function swnSerializer(apiData) {
       type: apiEventTypeName.SWN,
       date: item.messageIssueTime.split('T')[0],
       description: apiEventDescription.SWN[item.messageType],
-      definition: apiEventDefinition.SWN,
       url: apiEventUrl.SWN,
     }));
 }

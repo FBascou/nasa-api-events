@@ -3,11 +3,10 @@ import React from 'react';
 const NewsItem = ({ name, type, date, description, definition }) => {
   return (
     <tr>
+      <td>{date}</td>
       <td>{name}</td>
       <td>{type}</td>
-      <td>{date}</td>
       <td>{description}</td>
-      <td>{definition}</td>
     </tr>
   );
 };

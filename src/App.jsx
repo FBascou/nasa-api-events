@@ -5,7 +5,8 @@ import apis from './apis/apis';
 import { useState, useEffect } from 'react';
 import eclipseApi from './apis/eclipses.json';
 import { serializeService } from './serializers/serializer';
-import { sortDate } from './helpers/helpers';
+import { sortDatePast } from './helpers/helpers';
+import Header from './components/Header/Header';
 
 function App() {
   const serializerService = serializeService();
@@ -19,14 +20,17 @@ function App() {
         axios.spread((...res) => {
           const resOne = res[0].data;
           const resTwo = res[1].data;
-          // EMPTY API ATM
+          // EMPTY FD API
           // const resThree = res[2].data;
 
           const cadApiData = serializerService.cadSerializer(resOne.data);
           const swnApiData = serializerService.swnSerializer(resTwo);
           const eclipseApiData = serializerService.eDataSerializer(eclipseApi);
+          const filteredApiList = sortDatePast(
+            apiList.concat(cadApiData, swnApiData, eclipseApiData),
+          ).filter((item) => new Date(item.date) - new Date() > 0 === true);
 
-          setApiList(sortDate(apiList.concat(cadApiData, swnApiData, eclipseApiData)));
+          setApiList(filteredApiList);
         }),
       )
       .catch((err) => {
@@ -36,6 +40,7 @@ function App() {
 
   return (
     <div className="App">
+      <Header />
       <Events apiList={apiList} />
     </div>
   );

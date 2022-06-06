@@ -1,6 +1,6 @@
-th {
-  text-align: center;
-  font-family: arial, sans-serif;
+.container {
+  overflow-y: scroll;
+  height: 65vh;
 }
 
 table {
@@ -11,6 +11,10 @@ table {
   width: 100%;
 }
 
+th {
+  text-align: center;
+  font-family: arial, sans-serif;
+}
 td,
 th {
   border: 1px solid #ddd;

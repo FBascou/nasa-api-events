@@ -5,12 +5,7 @@ import { formatDate } from '../helpers/helpers';
  * data coming from API are: string[]
  * */
 
-import {
-  apiEventDefinition,
-  apiEventDescription,
-  apiEventTypeName,
-  apiEventUrl,
-} from '../apis/apiDataInfo';
+import { apiEventDescription, apiEventTypeName, apiEventUrl } from '../apis/apiDataInfo';
 
 export function cadSerializer(apiData) {
   return apiData.map((item) => ({
@@ -18,7 +13,6 @@ export function cadSerializer(apiData) {
     type: apiEventTypeName.CAD,
     date: formatDate(item[3].split(' ')[0]),
     description: apiEventDescription.CAD,
-    definition: apiEventDefinition.CAD,
     url: apiEventUrl.CAD,
   }));
 }

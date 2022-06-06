@@ -6,7 +6,7 @@ export const apiEventTypeName = {
 };
 
 export const apiEventDescription = {
-  CAD: 'N/A',
+  CAD: 'Close-approaches NEO asteroids and comets less than 0.05 AU.',
   FD: `The bolide/meteor will be visible visible to the naked eye.`,
   SWN: {
     CME: 'Coronal Mass Ejection: A coronal mass ejection is a significant release of plasma and accompanying magnetic field from the solar corona. They often follow solar flares and are normally present during a solar prominence eruption.',
@@ -17,15 +17,14 @@ export const apiEventDescription = {
     IPS: 'Interplanetary Shock: Strong magnetospheric compression and geomagnetic storm expected.',
     MPC: 'Magnetopause Crossing: Spacecrafts at the geosynchronous orbits may be exposed to solar wind plasma and magnetic field conditions. Strong magnetospheric compression and geomagnetic storm expected.',
   },
-  //   E: type,
-};
-
-export const apiEventDefinition = {
-  CAD: 'Close-approaches NEO asteroids and comets less than 0.05 AU.',
-  FD: 'Fireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to be seen over a very wide area.',
-  SWN: 'Solar, electro-magnetic, radiation activities in space that affect Earth and its vicinity.',
   E: "A solar eclipse occurs when the Moon passes between Earth and the Sun. A lunar eclipse occurs when the Moon moves into the Earth's shadow. ",
 };
+
+// export const apiEventDefinition = {
+//   CAD: 'Close-approaches NEO asteroids and comets less than 0.05 AU.',
+//   FD: 'Fireballs and bolides are astronomical terms for exceptionally bright meteors that are spectacular enough to to be seen over a very wide area.',
+//   SWN: 'Solar, electro-magnetic, radiation activities in space that affect Earth and its vicinity.',
+// };
 
 export const apiEventUrl = {
   CAD: 'https://cneos.jpl.nasa.gov/ca/',
