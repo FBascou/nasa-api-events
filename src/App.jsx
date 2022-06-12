@@ -12,15 +12,18 @@ function App() {
   const serializerService = serializeService();
   const api = apis();
   const [apiList, setApiList] = useState([]);
+  const [isLoaded, setIsLoaded] = useState(false);
 
   useEffect(() => {
+    setIsLoaded(true);
     axios
       .all(api.map((url) => axios.get(url)))
       .then(
         axios.spread((...res) => {
           const resOne = res[0].data;
           const resTwo = res[1].data;
-          // EMPTY FD API
+
+          // Fireball Data API
           // const resThree = res[2].data;
 
           const cadApiData = serializerService.cadSerializer(resOne.data);
@@ -28,9 +31,10 @@ function App() {
           const eclipseApiData = serializerService.eDataSerializer(eclipseApi);
           const filteredApiList = sortDatePast(
             apiList.concat(cadApiData, swnApiData, eclipseApiData),
-          ).filter((item) => new Date(item.date) - new Date() > 0 === true);
+          ).filter((item) => new Date(item.date) - new Date());
 
           setApiList(filteredApiList);
+          setIsLoaded(false);
         }),
       )
       .catch((err) => {
@@ -41,7 +45,11 @@ function App() {
   return (
     <div className="App">
       <Header />
-      <Events apiList={apiList} />
+      {!isLoaded ? (
+        <Events apiList={apiList} isLoaded={isLoaded} />
+      ) : (
+        <div className="loader">Loading table...</div>
+      )}
     </div>
   );
 }

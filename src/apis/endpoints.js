@@ -1,3 +1,4 @@
+const API_KEY = 'q0W8trWIeEZOKtTk2prwVmoiMbnWf0aLiYXYbe9d';
 const date = new Date();
 const todayDate = new Date(date.getTime() - date.getTimezoneOffset() * 60000)
   .toISOString()

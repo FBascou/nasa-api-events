@@ -40,3 +40,9 @@
 button {
   font-size: calc(10px + 2vmin);
 }
+
+.loader {
+  margin-top: 5rem;
+  font-size: 1.5rem;
+  color: #0bb4d6;
+}
